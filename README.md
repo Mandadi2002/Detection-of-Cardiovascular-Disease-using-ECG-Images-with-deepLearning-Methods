@@ -21,7 +21,7 @@ The dataset contains 4 categories of ECG images:
 https://docs.google.com/presentation/d/1qnm3TF2eX0BKHlSFEvgR5NTwp3kWJtox/edit?usp=drive_link&ouid=109366818380983377600&rtpof=true&sd=true
 
 # **DEPLOYMENT LINKS**
-We have deployed our applicaiton in RENDOR. 
+We have deployed our applicaiton in **RENDOR** cloud web service with **GITHUB** Repositary. 
 
 https://github.com/Mandadi2002/Detection-of-Cardiovascular-Disease-using-ECG-Images-with-deepLearning-Methods.git
 
