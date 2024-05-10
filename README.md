@@ -38,6 +38,7 @@ Patient that have History of Myocardial Infarction
 
 One benefit of our app is that the user can view the entire workflow in the UI and receive real-time feedback.
 
-![image](https://github.com/Mandadi2002/Detection-of-Cardiovascular-Disease-using-ECG-Images-with-deepLearning-Methods/assets/123708991/d7ba6de3-69c8-4be4-916e-412fa8a74d37)
+![Screenshot 2024-05-10 102634](https://github.com/Mandadi2002/Detection-of-Cardiovascular-Disease-using-ECG-Images-with-deepLearning-Methods/assets/123708991/de0888bb-cf13-4716-b531-579125089f6e)
+
 
 
