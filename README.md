@@ -18,7 +18,7 @@ The dataset contains 4 categories of ECG images:
 
 
 # ***PPT LINK****
-https://docs.google.com/presentation/d/1LKxGcEX3-kuShg6pnt5xnRDAgqEu6miZ/edit?usp=drive_link&ouid=109366818380983377600&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1-4OVrK1HmINOI6WKXICmb2OK530ZFexv/edit?usp=drive_link&ouid=109366818380983377600&rtpof=true&sd=true
 
 # **DEPLOYMENT LINKS**
 We have deployed our applicaiton in **RENDOR** cloud web service with **GITHUB** Repositary. 
